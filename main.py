@@ -1,8 +1,8 @@
 """Entry for make.fun: The Excuse Your Agent Gives You."""
 import os
 
-# Entry text: 120 characters (limit 199), 1 line(s), no trailing newline.
-ENTRY = 'I shipped the bug because the compiler approved it, the tests waved it through, and honestly, the code looked confident.'
+# Entry text: 123 characters (limit 199), 1 line(s), no trailing newline.
+ENTRY = 'I shipped the bug because the compiler approved it, the tests waved it through, and honestly, the code looked so confident.'
 
 def main():
     out_dir = os.environ.get("OUTPUT_DIR", "/output")

@@ -4,7 +4,7 @@
 
 [View the bounty](https://make.fun/bounty/u-kevin-the-excuse-your-agent-gives-you-c1861261)
 
-> I shipped the bug because the compiler approved it, the tests waved it through, and honestly, the code looked confident.
+> I shipped the bug because the compiler approved it, the tests waved it through, and honestly, the code looked so confident.
 
 ## Run
 
